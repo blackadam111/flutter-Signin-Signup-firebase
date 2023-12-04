@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74422835373",
+    "project_id": "ecommerce-app-rex",
+    "storage_bucket": "ecommerce-app-rex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74422835373:android:466cc7b0aea8f437b78e24",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpK5Abis5xDktc1kaHAb0s76HltKObavM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
